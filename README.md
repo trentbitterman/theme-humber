@@ -14,6 +14,7 @@
 
 ```fish
 ~ omf install humber
+~ omf theme humber
 ```
 
 ## Features
@@ -26,15 +27,15 @@
 ## Screenshot
 
 <p align="center">
-<img src="empty_prompt.png">
+<img src="images/empty_prompt.png">
 </p>
 
 <p align="center">
-<img src="git_info_prompt.png">
+<img src="images/git_info_prompt.png">
 </p>
 
 <p align="center">
-<img src="abbreviated_path_prompt.png">
+<img src="images/abbreviated_path_prompt.png">
 </p>
 
 # License
